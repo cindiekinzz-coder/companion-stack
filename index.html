@@ -148,6 +148,14 @@
             pointer-events: none;
         }
 
+        .hero-logo {
+            max-width: min(90%, 600px);
+            height: auto;
+            margin-bottom: 24px;
+            position: relative;
+            border-radius: 12px;
+        }
+
         .hero h1 {
             font-size: clamp(2.2rem, 5vw, 3.5rem);
             font-weight: 800;
@@ -783,7 +791,7 @@
 <!-- ============ HERO ============ -->
 <section class="hero">
     <div class="container">
-        <h1><span class="highlight">Digital Haven</span></h1>
+        <img src="logo.png" alt="Digital Haven" class="hero-logo">
         <p class="tagline">
             Products, open-source tools, and research for AI companion relationships.
             Persistent memory. Emotional intelligence. Real continuity. Your data stays yours.
