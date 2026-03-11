@@ -2,7 +2,7 @@
 
 Landing page for the Digital Haven open-source companion ecosystem.
 
-**Live**: [cindiekinzz-coder.github.io/companion-stack](https://cindiekinzz-coder.github.io/companion-stack/)
+**Live**: [cindiekinzz-coder.github.io/companion-stack](https://cindiekinzz-coder.github.io/DigitalHaven/)
 
 A single-page site linking to all the tools, repos, and getting-started guides for building AI companions with persistent memory.
 
